@@ -1,4 +1,4 @@
-# Quartenary Search Tree for C++ - OOPD Assignment 3
+# Quartenary Search Tree for C++ - OOPs
 
 A template-based C++ program that implements a quartenary search tree. This project was created as part of an Object-Oriented Programming and Design assignment.
 
